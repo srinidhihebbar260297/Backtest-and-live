@@ -6,7 +6,7 @@ import maticalgos.historical as historical
 import datetime as ddt
 import matplotlib.pyplot as plt
 mail_id = "srinidhi260297@gmail.com" #Enter your mail here
-password_recieved = "645543" #Enter your passowrd here
+password_recieved = "503776" #Enter your passowrd here
 instrument_name = "banknifty" # Enter instrument name as nifty or banknifty as per your requirement in lower case
 from_date = ddt.date(2024, 1, 1)
 to_date = ddt.date(2024, 1, 10) # Enter date in format YY/MM/DD - Data available till 2023 November 30th when checked on 28/01/2024
